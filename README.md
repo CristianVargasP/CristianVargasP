@@ -44,5 +44,8 @@ I'm a developer in training and just starting my journey in the world of program
 <a href= "https://www.instagram.com/_felipevp/?igsh=MXR1aWF2M254Nm00Ng%3D%3D#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href="https://x.com/6_felipe_6?t=m5vI5OG8pvn7Pv2_m5eHyQ&s=09" >
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"  />
+</a>
 
 ###
