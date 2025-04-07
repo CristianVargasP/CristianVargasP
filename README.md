@@ -48,4 +48,7 @@ I'm a developer in training and just starting my journey in the world of program
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"  />
 </a>
 
-###
+<a href="https://wa.me/34641008719" >
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  />
+</a>
+
